@@ -1,18 +1,3 @@
-<h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
-	<br>
-	<br>
-</h1>
-
-<!--
-<p align="center">
-	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
-	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
-</p>
-
-<br>
--->
-
 <p align="center">
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;

@@ -188,7 +188,7 @@
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 - [Meteor](https://github.com/Urigo/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
-- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox) 
 - [Web Typography](https://github.com/deanhume/typography)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Material Design](https://github.com/sachin1092/awesome-material)
@@ -574,9 +574,4 @@
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
 
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+ 

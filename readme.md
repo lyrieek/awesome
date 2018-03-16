@@ -1,31 +1,31 @@
-## Contents
+## 主题
 
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Miscellaneous](#miscellaneous)
+- [平台](#platforms)
+- [编程语言](#programming-languages)
+- [前端开发](#front-end-development)
+- [后端开发](#back-end-development)
+- [计算机科学](#computer-science)
+- [大数据 Big](#big-data)
+- [理论](#theory)
+- [书籍](#books)
+- [编辑器](#editors)
+- [游戏](#gaming)
+- [开发环境](#development-environment)
+- [娱乐](#entertainment)
+- [数据库](#databases)
+- [媒体](#media)
+- [学习](#learn)
+- [安全](#security)
+- [内容管理系统(CMS)](#content-management-systems)
+- [硬件](#hardware)
+- [商业](#business)
+- [工作](#work)
+- [网络化](#networking)
+- [分散系统](#decentralized-systems)
+- [杂项](#miscellaneous)
 
 
-## Platforms
+## 平台
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -57,7 +57,7 @@
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
 
 
-## Programming Languages
+## 编程语言
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
@@ -124,7 +124,7 @@
 - [Idris](https://github.com/joaomilho/awesome-idris) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 
-## Front-End Development
+## 前端开发
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
@@ -190,7 +190,7 @@
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps.
 
 
-## Back-End Development
+## 后端开发
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
@@ -217,7 +217,7 @@
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform) - Tool for building, changing, and versioning infrastructure.
 
 
-## Computer Science
+## 计算机科学
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/bulutyazilim/awesome-datascience)
@@ -243,7 +243,7 @@
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
 
 
-## Big Data
+## 大数据
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -253,7 +253,7 @@
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark) - Unified engine for large-scale data processing.
 
 
-## Theory
+## 理论
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
@@ -266,7 +266,7 @@
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - Traversing nested data structures.
 
 
-## Books
+## 书籍
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality)
@@ -277,7 +277,7 @@
 - [Elixir Books](https://github.com/sger/ElixirBooks)
 
 
-## Editors
+## 编辑器
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Vim](https://github.com/mhinz/vim-galore)
@@ -286,7 +286,7 @@
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode) - Cross-platform open-source text editor.
 
 
-## Gaming
+## 游戏
 
 - [Game Development](https://github.com/ellisonleao/magictools)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
@@ -301,7 +301,7 @@
 - [Gideros](https://github.com/stetso/awesome-gideros) - Game engine.
 
 
-## Development Environment
+## 开发环境
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv)
@@ -324,7 +324,7 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
 
 
-## Entertainment
+## 娱乐
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
@@ -333,7 +333,7 @@
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes)
 
 
-## Databases
+## 数据库
 
 - [Database](https://github.com/numetriclabz/awesome-db)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
@@ -348,7 +348,7 @@
 - [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
 
 
-## Media
+## 媒体
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
@@ -362,7 +362,7 @@
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
 
 
-## Learn
+## 学习
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
@@ -375,7 +375,7 @@
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
 
 
-## Security
+## 安全
 
 - [Application Security](https://github.com/paragonie/awesome-appsec)
 - [Security](https://github.com/sbilly/awesome-security)
@@ -390,7 +390,7 @@
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking) - The art of unlocking a lock by manipulating its components without the key.
 
 
-## Content Management Systems
+## 内容管理系统(CMS)
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
@@ -400,7 +400,7 @@
 - [Craft CMS](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
 
 
-## Hardware
+## 硬件
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
@@ -409,7 +409,7 @@
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
 
 
-## Business
+## 商业
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
@@ -418,7 +418,7 @@
 - [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses.
 
 
-## Work
+## 工作
 
 - [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack)
@@ -428,20 +428,20 @@
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 
-## Networking
+## 网络化
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 
-## Decentralized Systems
+## 分散系统
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
 
-## Miscellaneous
+## 杂项
 
 - [JSON](https://github.com/burningtree/awesome-json) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
@@ -536,10 +536,3 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.

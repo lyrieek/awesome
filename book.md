@@ -169,6 +169,7 @@
 
 ## 历史
 | 书名 | 作者 | 评级 | 发布年份 |  
+
 |------|--------|------------------|----------------|  
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  

@@ -1,10 +1,10 @@
 # 一些开拓思维的书籍
 
-## Table of Contents
-* [创业](#startups-and-business)
-* [哲学和心理学](#philosophy-and-psychology)
-* [自传和传记](#autobiographies-and-biographies)
-* [历史](#history)
+## 目录
+* [企业文化](#企业文化)
+* [哲学与心理学](#哲学与心理学)
+* [自传与传记](#自传与传记)
+* [历史](#历史)
 * [进化，科学和医学](#science-and-medicine)
 * [逻辑和解决问题](#logic-and-problem-solving)
 * [政治](#politics)
@@ -16,12 +16,10 @@
 * [戏剧和电影](#theater-and-film)
 * [小说](#fiction)
 * [健康](#health)
-* [设计](#design)
-* [旅行](#travel)
+* [设计](#设计)
+* [旅行](#旅行)
 
-# Books
-
-## Startups and Business
+## 企业文化
 | 书名 | 作者 | 评级 | 发布年份 |  
 |------|--------|------------------|----------------|  
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
@@ -76,7 +74,7 @@
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
 | The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
 
-## Philosophy And Psychology
+## 哲学与心理学
 | 书名 | 作者 | 评级 | 发布年份 |  
 |------|--------|------------------|----------------|  
 | Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
@@ -146,7 +144,7 @@
 | The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression | Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
 | Snoop: What Your Stuff Says About You: Sam Gosling | Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  |  
 
-## Autobiographies and Biographies
+## 自传与传记
 | 书名 | 作者 | 评级 | 发布年份 |  
 |------|--------|------------------|----------------|  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
@@ -169,8 +167,8 @@
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
 
-## History
-| 书名 | 作者 | 评级 | 发布年份 |  
+## 历史
+| 书名 | 作者 | 评级 | 发布年份 |  
 |------|--------|------------------|----------------|  
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
@@ -450,23 +448,18 @@
 | Eat and Run: My Unlikely Journey to Ultramarathon Greatness |  Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
 | 8 Weeks to Optimum Health | Andrew Weil | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
 
-## Design
-| 书名 | 作者 | 评级 | 发布年份 |  
+## 设计
+| 书名 | 作者 | 评级 | 发布年份 |  
 |------|--------|------------------|----------------|  
 | Pattern Language: Towns, Buildings, Construction | Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
 | Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability | Steve Krug | [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
 | The Design of Everyday Things | Donald Norman | [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
 | The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 |  
 
-## Travel
+## 旅行
 | 书名 | 作者 | 评级 | 发布年份 |  
 |------|--------|------------------|----------------|  
 | Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 |  
-
-## Credits
-* [@hackerkid](https://github.com/hackerkid) for starting the list.
-* [@geritol](https://github.com/geritol) for building the framework for maintaining the list.
-* All the [contributors](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

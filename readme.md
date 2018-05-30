@@ -27,12 +27,12 @@
 
 ## 平台
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [iOS](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android)
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
-- [Electron](https://github.com/sindresorhus/awesome-electron) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - Javascript运行环境，基于Chrome V8的JavaScript构建引擎
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - 前端开发的资源
+- [iOS](https://github.com/vsouza/awesome-ios) - Apple手机和平板电脑的操作系统
+- [Android](https://github.com/JStumpp/awesome-android) - Google公司开发的操作系统
+- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid) - 物联网和Hybrid
+- [Electron](https://github.com/sindresorhus/awesome-electron) - 在跨平台的本地桌面应用程序使用JavaScript/HTML/CSS
 - [Cordova](https://github.com/busterc/awesome-cordova) - JavaScript API for hybrid apps.
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - Mobile app development IDE, testing, and distribution.

@@ -27,25 +27,25 @@
 
 ## 平台
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - Javascript运行环境，基于Chrome V8的JavaScript构建引擎
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - 前端开发的资源
-- [iOS](https://github.com/vsouza/awesome-ios) - Apple手机和平板电脑的操作系统
+- [Linux](https://github.com/aleksandar-todorovic/awesome-linux) 开源的类Unix操作系统
+	- [Containers](https://github.com/Friz-zy/awesome-linux-containers) Linux容器
+- [Windows](https://github.com/Awesome-Windows/Awesome) 微软公司研发的一套操作系统
+- [MacOS](https://github.com/iCHAIT/awesome-macOS) 苹果公司研发的一套操作系统
+	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line) 命令行
+	- [Screensavers](https://github.com/aharris88/awesome-macos-screensavers) 屏保
+- [IOS](https://github.com/vsouza/awesome-ios) - Apple手机和平板电脑的操作系统
 - [Android](https://github.com/JStumpp/awesome-android) - Google公司开发的操作系统
+- [JVM](https://github.com/deephacks/awesome-jvm) Java虚拟机
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - Javascript运行环境，基于Chrome V8的JavaScript构建引擎
+- [watchOS](https://github.com/yenchenlin/awesome-watchos) - Apple Watch的操作系统。
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - 前端开发的资源
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid) - 物联网和Hybrid
 - [Electron](https://github.com/sindresorhus/awesome-electron) - 在跨平台的本地桌面应用程序使用JavaScript/HTML/CSS
 - [Cordova](https://github.com/busterc/awesome-cordova) - 适用于Hybrid App的JavaScript API
 - [React Native](https://github.com/jondot/awesome-react-native) React Native的样式列表
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - 移动应用程序开发IDE，测试和分发。
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
-- [macOS](https://github.com/iCHAIT/awesome-macOS)
-	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
-	- [Screensavers](https://github.com/aharris88/awesome-macos-screensavers)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos) - Operating system for the Apple Watch.
-- [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
-- [Windows](https://github.com/Awesome-Windows/Awesome)
 - [IPFS](https://github.com/ipfs/awesome-ipfs) - P2P hypermedia protocol.
 - [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku) - Cloud platform as a service.

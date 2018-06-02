@@ -37,24 +37,23 @@
 - [Android](https://github.com/JStumpp/awesome-android) - Google公司开发的操作系统
 - [JVM](https://github.com/deephacks/awesome-jvm) Java虚拟机
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - Javascript运行环境，基于Chrome V8的JavaScript构建引擎
-- [watchOS](https://github.com/yenchenlin/awesome-watchos) - Apple Watch的操作系统。
+- [WatchOS](https://github.com/yenchenlin/awesome-watchos) - Apple Watch的操作系统。
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - 前端开发的资源
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid) - 物联网和Hybrid
 - [Electron](https://github.com/sindresorhus/awesome-electron) - 在跨平台的本地桌面应用程序使用JavaScript/HTML/CSS
 - [Cordova](https://github.com/busterc/awesome-cordova) - 适用于Hybrid App的JavaScript API
 - [React Native](https://github.com/jondot/awesome-react-native) React Native的样式列表
-- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - 移动应用程序开发IDE，测试和分发。
-- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
-- [IPFS](https://github.com/ipfs/awesome-ipfs) - P2P hypermedia protocol.
-- [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools.
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
+- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - 移动应用程序开发IDE，测试和分发
+- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce) - 使用Salesforce创建应用程序
+- [Amazon Web Services](https://github.com/donnemartin/awesome-aws) - 精简的AWS库
+- [IPFS](https://github.com/ipfs/awesome-ipfs) -  P2P超媒体协议
+- [Fuse](https://github.com/vinkla/awesome-fuse) - 移动开发工具
+- [Heroku](https://github.com/ianstormtaylor/awesome-heroku) - 云平台即服务
+- [Qt](https://github.com/JesseTG/awesome-qt) - 跨平台的GUI应用程序框架。
+- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - 跨浏览器扩展系统
+- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - 在Ruby中使用IOS，Android，MacOS，tvOS和WatchOS编写跨平台本机应用程序。
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv) - 为不同的电视平台创建应用程序
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome) - 适用于Linux的简单无分散桌面环境
 
 
 ## 编程语言

@@ -33,9 +33,9 @@
 - [Android](https://github.com/JStumpp/awesome-android) - Google公司开发的操作系统
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid) - 物联网和Hybrid
 - [Electron](https://github.com/sindresorhus/awesome-electron) - 在跨平台的本地桌面应用程序使用JavaScript/HTML/CSS
-- [Cordova](https://github.com/busterc/awesome-cordova) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native)
-- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - Mobile app development IDE, testing, and distribution.
+- [Cordova](https://github.com/busterc/awesome-cordova) - 适用于Hybrid App的JavaScript API
+- [React Native](https://github.com/jondot/awesome-react-native) React Native的样式列表
+- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - 移动应用程序开发IDE，测试和分发。
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [macOS](https://github.com/iCHAIT/awesome-macOS)

@@ -5,7 +5,7 @@
 - [前端开发](#前端开发) - (front-end-development)
 - [后端开发](#后端开发) - (back-end-development)
 - [计算机科学](#计算机科学) - (computer-science)
-- [大数据 Big](#大数据) - (big-data)
+- [大数据](#大数据) - (big-data)
 - [理论](#理论) - (theory)
 - [书籍](#书籍) - (books)
 - [编辑器](#编辑器) - (editors)
@@ -60,12 +60,12 @@
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
-	- [Standard Style](https://github.com/standard/awesome-standard) - Style guide and linter.
+	- [Standard Style](https://github.com/standard/awesome-standard) - 风格指南
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 	- [Tips](https://github.com/loverajoel/jstips)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) - Impossible sounding projects that exist.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) - 探索“不可能”的项目
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) - For npm packages.
 	- [npm](https://github.com/sindresorhus/awesome-npm) - Package manager.
 	- [AVA](https://github.com/avajs/awesome-ava) - Test runner.
@@ -77,8 +77,8 @@
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
-	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - Scientific research in audio/music.
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio)
+	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - 音频/音乐科学研究
 - [Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
@@ -110,36 +110,40 @@
 - [.NET](https://github.com/quozd/awesome-dotnet)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core)
 - [PHP](https://github.com/ziadoz/awesome-php)
-	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
+	- [Composer](https://github.com/jakoch/awesome-composer) - 包管理
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 - [Assembler](https://github.com/jaspergould/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
-- [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
-- [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
-- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - Object-oriented language targeting Adobe AIR.
-- [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM.
-- [Idris](https://github.com/joaomilho/awesome-idris) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Frege](https://github.com/sfischer13/awesome-frege) - 基于JVM的Haskell.
+- [CMake](https://github.com/onqtam/awesome-cmake) - 构建测试打包
+- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - 面向对象的Adobe Air语言
+- [Eta](https://github.com/sfischer13/awesome-eta) - 基于JVM的FP(Functional Programming 函数式编程)
+- [Idris](https://github.com/joaomilho/awesome-idris) - 受Haskell和ML影响的通用纯函数编程语言
+
 
 
 ## 前端开发
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - Web性能优化
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [CSS](https://github.com/sotayamashita/awesome-css)
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools)
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips)
+- [HTML5](https://github.com/diegocard/awesome-html5)
+- [jQuery](https://github.com/petk/awesome-jquery)
+	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
+- [Angular](https://github.com/gdi2290/awesome-angular) - App framework.
+- [Vue.js](https://github.com/vuejs/awesome-vue) - App framework.
 - [React](https://github.com/enaqx/awesome-react) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer) - JavaScript library to develop Web Components.
-- [Angular](https://github.com/gdi2290/awesome-angular) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
-- [HTML5](https://github.com/diegocard/awesome-html5) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg) - XML-based vector image format.
 - [Canvas](https://github.com/raphamorim/awesome-canvas)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
@@ -156,8 +160,6 @@
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails)
-- [jQuery](https://github.com/petk/awesome-jquery) - Easy to use JavaScript library for DOM manipulation.
-	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
@@ -165,7 +167,6 @@
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
-- [Vue.js](https://github.com/vuejs/awesome-vue) - App framework.
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette) - App framework.
 - [Aurelia](https://github.com/behzad888/awesome-aurelia) - App framework.
 - [Charting](https://github.com/zingchart/awesome-charting)

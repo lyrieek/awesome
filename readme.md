@@ -443,8 +443,8 @@
 
 ## 杂项
 
-- [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated.
-- [JSON](https://github.com/burningtree/awesome-json) - Text based data interchange format.
+- [Awesome](https://github.com/sindresorhus/awesome) - 源作者(现在看到的清单为中文翻译).
+- [JSON](https://github.com/burningtree/awesome-json) - 基于文本的数据交换格式
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
@@ -472,26 +472,26 @@
 - [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
-- [OpenGL](https://github.com/eug/awesome-opengl) - Cross-platform API for rendering 2D and 3D graphics.
+- [OpenGL](https://github.com/eug/awesome-opengl) - 用于绘制2D和3D图形的跨平台工具
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/awesome-share)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
-- [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources.
+- [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode标准、包和资源
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Katas](https://github.com/gamontalvo/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
-- [Citizen Science](https://github.com/dylanrees/citizen-science) - For community-based and non-institutional scientists.
-- [TAP](https://github.com/sindresorhus/awesome-tap) - Test Anything Protocol.
+- [Citizen Science](https://github.com/dylanrees/citizen-science) - 社区和非制度科学家
+- [TAP](https://github.com/sindresorhus/awesome-tap) - 测试任何协议
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol.
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal) - Node.js CLI framework.
-- [Vulkan](https://github.com/vinjn/awesome-vulkan) - Low-overhead, cross-platform 3D graphics and compute API.
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language.
+- [Vulkan](https://github.com/vinjn/awesome-vulkan) - 低开销、跨平台的3D图形和计算API
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - 排版语言
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
@@ -499,39 +499,47 @@
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
-- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
-- [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
-- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
+- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - 建设和推动更多的富有同情心的工程文化
+- [DTrace](https://github.com/xen0l/awesome-dtrace) - 动态跟踪框架
+- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 增强浏览体验
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops) - 通过聊天管理技术和业务操作
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
-- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - 复杂需求的软件开发方法：将实现与演化模型连接
 - [Quantified Self](https://github.com/woop/awesome-quantified-self) - Self-tracking through technology.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
-- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login.
-- [Testing](https://github.com/TheJambo/awesome-testing) - Software testing.
-- [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - 编写一些表达性的东西而不是功能性的东西
+- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 无需登录就可以工作的Web应用程序
+- [Testing](https://github.com/TheJambo/awesome-testing) - 软件测试
+- [Free Software](https://github.com/johnjago/awesome-free-software) - 尊重用户自由和社区的软件
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
-- [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
-- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
-- [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-- [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
-- [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
-- [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
-- [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
-- [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
-- [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
-- [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
-- [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Diversity](https://github.com/folkswhocode/awesome-diversity) - Creating a more inclusive and diverse tech community.
-- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - Companies that offer their tools and services for free to open source projects.
-- [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
-- [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
-- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
+- [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - 标记语言
+- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - 搞笑开发者项目
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - 荷兰科技相关事件
+- [Healthcare](https://github.com/kakoni/awesome-healthcare) - 开放源码医疗保健软件为设施、提供者、开发者、政策专家和研究者
+- [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - 使用PHP构建的开源电子商务
+- [TikZ](https://github.com/xiaohanyu/awesome-tikz) - TeX / LaTeX / ConTeXt的图形绘制软件包
+- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - 神经系统与脑的研究
+- [Ad-Free](https://github.com/johnjago/awesome-ad-free) - 无广告替代品
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs) - 为实验而设计的编程语言或笑话(不是实际使用的语言)
+- [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - 开源监控系统
+- [Homematic](https://github.com/hobbyquaker/awesome-homematic) - 智能家居设备
+- [Ledger](https://github.com/sfischer13/awesome-ledger) - 命令行上的复式记帐
+- [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - 公有领域的作品
+- [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — 数字货币，其中使用加密来调节单位的生成并验证转账
+- [Diversity](https://github.com/folkswhocode/awesome-diversity) - 创建一个更加包容和多样化的科技社区
+- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - 提供免费开放源代码项目的工具和服务的公司
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles) - 创造更好、更一致的设计和经验
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - 确保修改没有破坏功能或风格
+- [Theravada](https://github.com/johnjago/awesome-theravada) - 小乘佛教传统的教义
+- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - 开源的java应用程序性能管理工具
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+
+综上所述，本清单的译者同样放弃所有版权和相关的权利

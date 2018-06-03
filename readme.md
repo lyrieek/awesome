@@ -310,7 +310,7 @@
 - [Fish](https://github.com/jbucaran/awesome-fish) - User-friendly shell.
 - [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
-- [GitHub](https://github.com/phillipadsmith/awesome-github) - Hosting service for Git repositories.
+- [GitHub](https://github.com/phillipadsmith/awesome-github) - Git托管服务
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
@@ -318,19 +318,19 @@
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
-- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
+- [Hyper](https://github.com/bnb/awesome-hyper) - 跨平台终端应用程序
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - 跨平台面向对象的shell.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - MacOS的生产力App
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
 
 
 ## 娱乐
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi.
-- [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
-- [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
-- [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
-- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes)
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - 科幻
+- [Fantasy](https://github.com/RichardLitt/awesome-fantasy) - 幻想
+- [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - 播客
+- [Email Newsletters](https://github.com/vredniy/awesome-newsletters) - 电子邮件通讯
+- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes) - IT行情
 
 
 ## 数据库
@@ -352,42 +352,42 @@
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
-- [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts.
+- [Codeface](https://github.com/chrissimpkins/codeface) - 源代码美化的字体
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [GIF](https://github.com/davisonio/awesome-gif) - 动图
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
-- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
+- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - 像素级数字艺术
 
 
 ## 学习
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper) - Interactive tutorials.
-- [Learn to Program](https://github.com/karlhorky/learn-to-program)
-- [Speaking](https://github.com/matteofigus/awesome-speaking)
-- [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
-- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
-- [Computer History](https://github.com/watson/awesome-computer-history)
-- [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
-- [Educational Games](https://github.com/yrgo/awesome-eg) - Learn while playing.
-- [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper) - 互动教程
+- [Learn to Program](https://github.com/karlhorky/learn-to-program) - 学习编程
+- [Speaking](https://github.com/matteofigus/awesome-speaking) - 请讲
+- [Tech Videos](https://github.com/lucasviola/awesome-tech-videos) - 技术视频
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) - 潜入机器学习
+- [Computer History](https://github.com/watson/awesome-computer-history) - 计算机历史
+- [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) - 教孩子编程
+- [Educational Games](https://github.com/yrgo/awesome-eg) - 在游戏中学习
+- [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) 学习JavaScript
 
 
 ## 安全
 
 - [Application Security](https://github.com/paragonie/awesome-appsec)
-- [Security](https://github.com/sbilly/awesome-security)
+- [Security](https://github.com/sbilly/awesome-security) - 安全
 - [CTF](https://github.com/apsdehal/awesome-ctf) - Capture The Flag.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Android Security](https://github.com/ashishb/android-security-awesome)
-- [Hacking](https://github.com/carpedm20/awesome-hacking)
-- [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Android Security](https://github.com/ashishb/android-security-awesome) - 安卓安全
+- [Hacking](https://github.com/carpedm20/awesome-hacking) - 黑客
+- [Honeypots](https://github.com/paralax/awesome-honeypots) - 蜜罐(欺骗陷阱，旨在诱使攻击者企图破坏组织中的信息系统)
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
-- [Lockpicking](https://github.com/meitar/awesome-lockpicking) - The art of unlocking a lock by manipulating its components without the key.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security) - 网络应用和服务的安全
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking) - 开锁
 
 
 ## 内容管理系统(CMS)
@@ -395,35 +395,35 @@
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS 专注于灵活性和用户体验
-- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
-- [Craft CMS](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - 基于轻量级PHP的CMS
+- [Drupal](https://github.com/nirgn975/awesome-drupal) - 可扩展的，基于PHP的CMS
+- [Craft CMS](https://github.com/chasegiunta/awesome-craft) - 内容优先的CMS
 
 
 ## 硬件
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics)
-- [Internet of Things](https://github.com/HQarroum/awesome-iot)
-- [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
-- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
+- [Robotics](https://github.com/Kiloreux/awesome-robotics) - 机器人
+- [Internet of Things](https://github.com/HQarroum/awesome-iot) - 物联网
+- [Electronics](https://github.com/monostable/awesome-electronics) - 电子,用于电子工程师和业余爱好者
+- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon) - 蓝牙信标
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - 电吉他规格
 
 
 ## 商业
 
-- [Open Companies](https://github.com/opencompany/awesome-open-company)
+- [Open Companies](https://github.com/opencompany/awesome-open-company) - 开放公司
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment.
-- [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses.
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - OKR方法,目标设定和沟通最佳实践
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - 领导和管理,领导人员并担任技术公司/环境的经理
+- [Indie](https://github.com/mezod/awesome-indie) - 独立开发的企业
 
 
 ## 工作
 
-- [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration.
-	- [Communities](https://github.com/filipelinhares/awesome-slack)
-- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
-- [Productivity](https://github.com/jyguyomarch/awesome-productivity)
+- [Slack](https://github.com/matiassingers/awesome-slack) - 团队协作
+	- [Communities](https://github.com/filipelinhares/awesome-slack) - 社区
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job) - 远程工作
+- [Productivity](https://github.com/jyguyomarch/awesome-productivity) - 生产率
 - [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
@@ -431,7 +431,7 @@
 ## 网络化
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
-- [Network Analysis](https://github.com/briatte/awesome-network-analysis)
+- [Network Analysis](https://github.com/briatte/awesome-network-analysis) - 为了分析
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 
 ## 分散系统
@@ -454,12 +454,12 @@
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Test automation tool for apps.
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium) - 应用程序的测试自动化工具
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
-- [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc.
-- [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
+- [Answers](https://github.com/cyberglot/awesome-answers) - 技术问答网站,E.g. Stack Overflow, Quora
+- [Sketch](https://github.com/diessica/awesome-sketch) - 为MacOS设计的应用程序
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
@@ -486,35 +486,35 @@
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - 社区和非制度科学家
 - [TAP](https://github.com/sindresorhus/awesome-tap) - 测试任何协议
-- [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol.
+- [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - “物联网”连接协议
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal) - Node.js CLI framework.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan) - 低开销、跨平台的3D图形和计算API
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - 排版语言
-- [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit.
+- [Economics](https://github.com/antontarasenko/awesome-economics) - 经济学家的入门套件
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
-- [Colorful](https://github.com/Siddharth11/Colorful) - Choose your next color scheme.
-- [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
-- [Bots](https://github.com/hackerkid/bots) - Building bots.
+- [Colorful](https://github.com/Siddharth11/Colorful) - 选择你的下一个配色方案
+- [Steam](https://github.com/scholtzm/awesome-steam) - 数字发行平台
+- [Bots](https://github.com/hackerkid/bots) - 建设机器人
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - 建设和推动更多的富有同情心的工程文化
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - 动态跟踪框架
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 增强浏览体验
-- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO.
+- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - 神奇宝贝
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - 通过聊天管理技术和业务操作
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - 谬误
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - 复杂需求的软件开发方法：将实现与演化模型连接
-- [Quantified Self](https://github.com/woop/awesome-quantified-self) - Self-tracking through technology.
-- [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
-- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
-- [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
+- [Quantified Self](https://github.com/woop/awesome-quantified-self) - 跟踪技术
+- [SaltStack](https://github.com/hbokh/awesome-saltstack) - 基于Python的配置管理系统
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - 网页设计(适用于数字设计师)
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter) - 负载测试和性能测量工具
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - 编写一些表达性的东西而不是功能性的东西
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 无需登录就可以工作的Web应用程序
 - [Testing](https://github.com/TheJambo/awesome-testing) - 软件测试
 - [Free Software](https://github.com/johnjago/awesome-free-software) - 尊重用户自由和社区的软件
-- [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
+- [Framer](https://github.com/podo/awesome-framer) - 成帧器(原型交互式UI设计)
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - 标记语言
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - 搞笑开发者项目
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - 荷兰科技相关事件
@@ -540,6 +540,12 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+```
 To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+```
+
+```
+译：尽可能根据法律，Sindre Sorhus放弃了本作品的所有版权和相关权利或相邻权利。
+```
 
 综上所述，本清单的译者同样放弃所有版权和相关的权利

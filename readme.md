@@ -158,12 +158,12 @@
 - [Web Typography](https://github.com/deanhume/typography)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Material Design](https://github.com/sachin1092/awesome-material)
-- [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations.
+- [D3](https://github.com/wbkd/awesome-d3) - 用于产生动态、交互式数据可视化的库。
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
-- [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Virtual reality for web browsers.
+- [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Web浏览器的VR。
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
@@ -192,7 +192,7 @@
 
 ## 后端开发
 
-- [Django](https://github.com/rosarior/awesome-django)
+- [Django](https://github.com/rosarior/awesome-django) Python Web应用框架
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
@@ -247,7 +247,7 @@
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop) - Framework for distributed storage and processing of very large data sets.
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop) - 用于大数据集的分布式存储和处理的框架
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark) - Unified engine for large-scale data processing.
@@ -263,7 +263,7 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 - [Math](https://github.com/rossant/awesome-math)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - Traversing nested data structures.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - 遍历嵌套数据结构
 
 
 ## 书籍
@@ -282,8 +282,8 @@
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor.
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode) - Cross-platform open-source text editor.
+- [Atom](https://github.com/mehcode/awesome-atom) - 开源可魔改的编辑器
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode) - 跨平台开源编辑器
 
 
 ## 游戏
@@ -337,15 +337,15 @@
 
 - [Database](https://github.com/numetriclabz/awesome-db)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - 对象关系数据库
+- [HBase](https://github.com/rayokota/awesome-hbase) - 分布式、可扩展、大数据存储
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/neueda/awesome-neo4j)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
+- [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
-- [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
-- [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - 计算框架图
+- [CouchDB](https://github.com/quangv/awesome-couchdb) - 面向文档的NoSQL
 
 
 ## 媒体
@@ -354,7 +354,7 @@
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
-- [GIF](https://github.com/davisonio/awesome-gif) - Image format known for animated images.
+- [GIF](https://github.com/davisonio/awesome-gif) - 动图
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
@@ -394,7 +394,7 @@
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
+- [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS 专注于灵活性和用户体验
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
@@ -436,13 +436,14 @@
 
 ## 分散系统
 
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
-- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - 比特币服务和软件开发商的工具
+- [Ripple](https://github.com/vhpoet/awesome-ripple) - 开源分布式结算网络
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - 非金融封锁链应用
+- [Mastodon](https://github.com/tleb/awesome-mastodon) - 免费，开源，分布式微博网络
 
 ## 杂项
 
+- [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [JSON](https://github.com/burningtree/awesome-json) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
@@ -450,7 +451,6 @@
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
-- [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)

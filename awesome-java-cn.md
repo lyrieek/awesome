@@ -1,6 +1,3 @@
-> [awesome-java](https://github.com/akullpp/awesome-java)
-> [awesome-java-cn](https://github.com/KangZhiDong/awesome-java-cn)
-
 ### 目录
 - [Java资源大全中文版](#awesome-java-cn)
     - [古董级工具](#ancients)
@@ -709,3 +706,9 @@
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
 * [OnJava](http://hao.jobbole.com/onjava/)：O'Reilly Java包含最新的Java技术资讯，优质代码，完全的实例和详解。[官网](http://www.onjava.com/)
+
+
+Source:
+> [awesome-java](https://github.com/akullpp/awesome-java)
+
+> [awesome-java-cn](https://github.com/KangZhiDong/awesome-java-cn)

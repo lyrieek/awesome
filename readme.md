@@ -151,7 +151,7 @@
 - [Inspiration](https://github.com/NoahBuscher/Inspire)
 - [Ember](https://github.com/nmec/awesome-ember) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui)
-- [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
+- [IOS UI](https://github.com/cjwirth/awesome-ios-ui)
 - [Meteor](https://github.com/Urigo/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
@@ -159,7 +159,7 @@
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [D3](https://github.com/wbkd/awesome-d3) - 用于产生动态、交互式数据可视化的库。
-- [Emails](https://github.com/jonathandion/awesome-emails)
+- [Emails](https://github.com/jonathandion/awesome-emails) - 邮箱
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
@@ -219,61 +219,61 @@
 
 ## 计算机科学
 
-- [University Courses](https://github.com/prakhar1989/awesome-courses)
-- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
-	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [University Courses](https://github.com/prakhar1989/awesome-courses) - 大学课程
+- [Data Science](https://github.com/bulutyazilim/awesome-datascience) - 数据科学
+	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience) - 教程
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - 机器学习
+	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - 教程
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby) - 学习，实施和应用Ruby的机器学习
 	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - 苹果机器学习框架的模型
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
-- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography)
-- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) 语言学
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography) 加密
+- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) 计算机视觉
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - 神经网络
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - 机器智能库
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - 引用最多的深度学习论文
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
-- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - 深度视觉
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
-- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
-- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
+- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming) - 函数式编程
+- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis) - 静态分析和代码质量
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - 信息检索,学习开发自己的搜索引擎
 
 
 ## 大数据
 
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata)
-- [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata) - 大数据
+- [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - 公开数据集
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop) - 用于大数据集的分布式存储和处理的框架
-- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
-- [Streaming](https://github.com/manuzhang/awesome-streaming)
-- [Apache Spark](https://github.com/awesome-spark/awesome-spark) - Unified engine for large-scale data processing.
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - 数据工程
+- [Streaming](https://github.com/manuzhang/awesome-streaming) - 流
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark) - 用于大规模数据处理的统一引擎
 
 
 ## 理论
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
-- [Algorithms](https://github.com/tayllan/awesome-algorithms)
-- [Algorithm Visualizations](https://github.com/enjalot/algovis)
-- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
-- [Math](https://github.com/rossant/awesome-math)
+- [Algorithms](https://github.com/tayllan/awesome-algorithms) - 算法
+- [Algorithm Visualizations](https://github.com/enjalot/algovis) - 算法可视化
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - 人工智能
+- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) - 搜索引擎优化
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) - 编程竞赛
+- [Math](https://github.com/rossant/awesome-math) - 数学
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - 遍历嵌套数据结构
 
 
 ## 书籍
 
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - 免费编程书籍
+- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality) - 免费软件测试书籍
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks)
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
-- [Book Authoring](https://github.com/TalAter/awesome-book-authoring)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - 思维扩展书籍
+- [Book Authoring](https://github.com/TalAter/awesome-book-authoring) - 图书创作
 - [Elixir Books](https://github.com/sger/ElixirBooks)
 
 
@@ -288,27 +288,27 @@
 
 ## 游戏
 
-- [Game Development](https://github.com/ellisonleao/magictools)
-- [Game Talks](https://github.com/hzoo/awesome-gametalks)
-- [Godot](https://github.com/Calinou/awesome-godot) - Game engine.
-- [Open Source Games](https://github.com/leereilly/games)
-- [Unity](https://github.com/RyanNielson/awesome-unity) - Game engine.
-- [Chess](https://github.com/hkirat/awesome-chess)
-- [LÖVE](https://github.com/love2d-community/awesome-love2d) - Game engine.
+- [Game Development](https://github.com/ellisonleao/magictools) - 游戏开发
+- [Game Talks](https://github.com/hzoo/awesome-gametalks) - 游戏会谈
+- [Godot](https://github.com/Calinou/awesome-godot) - 游戏引擎
+- [Open Source Games](https://github.com/leereilly/games) - 开源游戏
+- [Unity](https://github.com/RyanNielson/awesome-unity) - 游戏引擎
+- [Chess](https://github.com/hkirat/awesome-chess) - 棋
+- [LÖVE](https://github.com/love2d-community/awesome-love2d) - 游戏引擎
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev)
-- [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine.
-- [Gideros](https://github.com/stetso/awesome-gideros) - Game engine.
+- [Construct 2](https://github.com/armaldio/awesome-construct) - 游戏引擎
+- [Gideros](https://github.com/stetso/awesome-gideros) - 游戏引擎
 
 
 ## 开发环境
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS.
-- [Dev Env](https://github.com/jondot/awesome-devenv)
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - 快速查看插件(适用于MacOS)
+- [Dev Env](https://github.com/jondot/awesome-devenv) - 开发环境
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Fish](https://github.com/jbucaran/awesome-fish) - User-friendly shell.
-- [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
+- [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps) 命令行应用程序
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [GitHub](https://github.com/phillipadsmith/awesome-github) - Git托管服务
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
@@ -449,9 +449,9 @@
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
-- [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
-- [Radio](https://github.com/kyleterry/awesome-radio)
-- [Analytics](https://github.com/onurakpolat/awesome-analytics)
+- [Sysadmin](https://github.com/n1trux/awesome-sysadmin) - 系统管理员
+- [Radio](https://github.com/kyleterry/awesome-radio) - 无线电
+- [Analytics](https://github.com/onurakpolat/awesome-analytics) - 分析
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium) - 应用程序的测试自动化工具
@@ -461,16 +461,16 @@
 - [Answers](https://github.com/cyberglot/awesome-answers) - 技术问答网站,E.g. Stack Overflow, Quora
 - [Sketch](https://github.com/diessica/awesome-sketch) - 为MacOS设计的应用程序
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
-- [Readme](https://github.com/matiassingers/awesome-readme)
-- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Readme](https://github.com/matiassingers/awesome-readme) - 自述
+- [Tools](https://github.com/cjbarber/ToolsOfTheTrade) - 工具
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-- [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
+- [Self Hosted](https://github.com/Kickball/awesome-selfhosted) - 自我托管
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp) - Task runner.
-- [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything.
-	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
+- [AMA](https://github.com/sindresorhus/amas) - 询问
+	- [Answers](https://github.com/stoeffel/awesome-ama-answers) - 答案
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [OpenGL](https://github.com/eug/awesome-opengl) - 用于绘制2D和3D图形的跨平台工具
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
@@ -545,7 +545,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ```
 
 ```
-译：尽可能根据法律，Sindre Sorhus放弃了本作品的所有版权和相关权利或相邻权利。
+译：尽可能根据法律，Sindre Sorhus放弃了本作品的所有版权和相关权利或相关权利。
 ```
 
 综上所述，本清单的译者同样放弃所有版权和相关的权利

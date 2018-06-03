@@ -164,7 +164,7 @@
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Web浏览器的VR。
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - Functional and reactive JavaScript framework.
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - 功能和反应性JavaScript框架
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette) - App framework.
@@ -173,7 +173,7 @@
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [PostCSS](https://github.com/jjaderg/awesome-postcss) - CSS tool.
-- [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js) - React的富文本编辑器框架
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
@@ -186,8 +186,8 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
-- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps.
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - 服务器呈现的React应用程序的框架
+- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - 用于构建Web应用程序的Tiny JavaScript库
 
 
 ## 后端开发
@@ -213,8 +213,8 @@
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen)
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
-- [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform) - Tool for building, changing, and versioning infrastructure.
+- [Vert.x](https://github.com/vert-x3/vertx-awesome) - 用于在JVM上构建反应式应用程序的工具包
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform) - 构建，更改和版本化基础架构的工具
 
 
 ## 计算机科学
@@ -224,17 +224,17 @@
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - Models for Apple's machine learning framework.
+	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby) - 学习，实施和应用Ruby的机器学习
+	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - 苹果机器学习框架的模型
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - 神经网络
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - 机器智能库
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - 引用最多的深度学习论文
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)

@@ -101,7 +101,7 @@
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Dart](https://github.com/yissachar/awesome-dart)
-- [Java](https://github.com/akullpp/awesome-java)
+- [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)

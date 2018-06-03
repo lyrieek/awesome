@@ -59,16 +59,16 @@
 ## 编程语言
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises)
+	- [Promises](https://github.com/wbinnssmith/awesome-promises) - 同步任务和异步任务
 	- [Standard Style](https://github.com/standard/awesome-standard) - 风格指南
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
-	- [Tips](https://github.com/loverajoel/jstips)
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch) - 必看的小视频
+	- [Tips](https://github.com/loverajoel/jstips) - 技巧
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) - 探索“不可能”的项目
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) - For npm packages.
 	- [npm](https://github.com/sindresorhus/awesome-npm) - Package manager.
-	- [AVA](https://github.com/avajs/awesome-ava) - Test runner.
+	- [AVA](https://github.com/avajs/awesome-ava) - 最小的＆未来的JavaScript测试运行器
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint) - Linter.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
 	- [Observables](https://github.com/sindresorhus/awesome-observables)

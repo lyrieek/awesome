@@ -103,6 +103,7 @@
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
+	- [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)

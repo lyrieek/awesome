@@ -273,7 +273,7 @@
 - [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality) - 免费软件测试书籍
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks)
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - 思维扩展书籍
+- [Mind Expanding Books](https://github.com/vsTianhao/awesome/blob/develop/book.md) - 思维扩展书籍
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring) - 图书创作
 - [Elixir Books](https://github.com/sger/ElixirBooks)
 
